@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "782965271163",
+    "firebase_url": "https://makkhan-kitchen.firebaseio.com",
+    "project_id": "makkhan-kitchen",
+    "storage_bucket": "makkhan-kitchen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782965271163:android:f652c0fc42f598e5",
+        "android_client_info": {
+          "package_name": "com.app.elixir.makkhankitchens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782965271163-5vjcgojlbkeubjk1ru0rq56lq57309t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3mWWZxQHWAwjl_zFJD-n0xb1j-gzYGMA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
